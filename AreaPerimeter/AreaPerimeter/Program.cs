@@ -32,7 +32,6 @@ namespace AreaPerimeter
                     Random rnd = new Random(i + 2);
                     x = rnd.Next(1, 10);
                     y = rnd.Next(1, 10);
-                    y = rnd.Next(1, 10);
                     z = rnd.Next(1, 10);
                 }
 

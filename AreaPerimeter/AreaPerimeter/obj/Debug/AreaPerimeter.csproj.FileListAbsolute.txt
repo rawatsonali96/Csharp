@@ -1,0 +1,7 @@
+C:\Users\sonalr\Desktop\Assignments\c#Assignment1\AreaPerimeter\AreaPerimeter\bin\Debug\AreaPerimeter.exe.config
+C:\Users\sonalr\Desktop\Assignments\c#Assignment1\AreaPerimeter\AreaPerimeter\bin\Debug\AreaPerimeter.exe
+C:\Users\sonalr\Desktop\Assignments\c#Assignment1\AreaPerimeter\AreaPerimeter\bin\Debug\AreaPerimeter.pdb
+C:\Users\sonalr\Desktop\Assignments\c#Assignment1\AreaPerimeter\AreaPerimeter\obj\Debug\AreaPerimeter.csprojAssemblyReference.cache
+C:\Users\sonalr\Desktop\Assignments\c#Assignment1\AreaPerimeter\AreaPerimeter\obj\Debug\AreaPerimeter.csproj.CoreCompileInputs.cache
+C:\Users\sonalr\Desktop\Assignments\c#Assignment1\AreaPerimeter\AreaPerimeter\obj\Debug\AreaPerimeter.exe
+C:\Users\sonalr\Desktop\Assignments\c#Assignment1\AreaPerimeter\AreaPerimeter\obj\Debug\AreaPerimeter.pdb
